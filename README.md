@@ -9,7 +9,7 @@ pip install -r requirements.txt
 Please cite our paper in your publications if it helps your research:
 
 ```
-@inproceedings{DIPDefend_2022,
+@inproceedings{DIPDefend_2020,
   title={DIPDefend: Deep Image Prior Driven Defense against Adversarial Examples},
   author={Tao Dai, Yan Feng, Dongxian Wu, Bin Chen, Jian Lu, Yong Jiang, Shu-Tao Xia},
   booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
